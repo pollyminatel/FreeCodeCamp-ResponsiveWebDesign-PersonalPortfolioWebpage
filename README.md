@@ -12,7 +12,8 @@ The following are the main features of this project:
 - Responsive design that adjusts to different screen sizes.
 - Use of CSS Animation and CSS Transform to bring the website to life.
 - Interactivity that makes the website more engaging for users.
-- Installation and Usage
+
+### Installation and Usage
 - Clone or download the repository from Github.
 - Open the index.html file in a browser to view the website.
 - Explore the website and interact with the different elements.
